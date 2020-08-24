@@ -1,0 +1,5 @@
+curl_getinfo
+
+curl_error
+
+header
